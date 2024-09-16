@@ -41,13 +41,13 @@
                             <button>{person.nickname}</button>
                             <a href={person.website} target="_blank"
                                 ><img
-                                    src="src/lib/img/globe.png"
+                                    src="/lib/img/globe.png"
                                     alt="web logo"
                                 /></a
                             >
                             <a href={person.github_handle} target="_blank"
                                 ><img
-                                    src="src/lib/img/github.png"
+                                    src="/lib/img/github.png"
                                     alt="github logo"
                                 /></a
                             >

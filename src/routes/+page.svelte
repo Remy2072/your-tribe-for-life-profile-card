@@ -96,7 +96,7 @@
     }
 
     .front {
-        /* background: url(../lib/img/gym.JPG); */
+        background: url(../lib/img/70781820.jpeg);
         background-size: cover;
         background-position: center;
         padding: 3.75rem var(--medium-rem);

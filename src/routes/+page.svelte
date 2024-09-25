@@ -40,10 +40,7 @@
                         <div class="row">
                             <button>{person.nickname}</button>
                             <a href={person.website} target="_blank"
-                                ><img
-                                    src="/img/globe.png"
-                                    alt="web logo"
-                                /></a
+                                ><img src="/img/globe.png" alt="web logo" /></a
                             >
                             <a href={person.github_handle} target="_blank"
                                 ><img
@@ -134,7 +131,7 @@
     }
 
     .back h1 {
-      margin-top: 2.2rem;
+        margin-top: 2.2rem;
         font-size: 3.125rem;
         line-height: 3.438rem;
         margin-bottom: 1.875rem;

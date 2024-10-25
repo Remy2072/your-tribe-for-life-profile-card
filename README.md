@@ -1,38 +1,27 @@
-# create-svelte
+# Titel
+Profile-card Remy Duivesteijn
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Inhoudsopgave
+  * [Beschrijving](#beschrijving)
+  * [Gebruik](#gebruik)
+  * [Installatie](#installatie)
+  * [Licentie](#licentie)
 
-## Creating a project
+## Beschrijving
+Deze website is mijn persoonlijke profiel kaartje. In dit kaartje zit wat meer informatie van mij zodat je mij beter leert kennen. Het project is gemaakt in svelte :)
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Screenshot
+<img width="1791" alt="Scherm­afbeelding 2024-10-25 om 17 23 55" src="https://github.com/user-attachments/assets/6f238468-cd89-449f-92ec-5861ac9abc99">
+<img width="1791" alt="Scherm­afbeelding 2024-10-25 om 17 25 23" src="https://github.com/user-attachments/assets/9375de74-29ab-469c-9280-b9f911766e45">
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+### Gebruik
+Er is niet veel te doen op de site, wanneer je de site opent kan je over het kaartje heen met je muis, zodra je dat doet flipt het kaartje met een animatie en zie je wat linkjes en meer info over mij.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Live link
+[Profiel-card](https://profilecard-sable.vercel.app/)
 
-## Developing
+## Installatie
+Wanneer je het project hebt geforked en gekloond, kun je het openen in je editor. Open in je editor de terminal en installeer je het volgende: ```npm install``` Zodra je dat hebt gedaan kan je het porject opstarten met npm run dev.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Licentie
+This project is licensed under the terms of the [MIT license](./LICENSE).
